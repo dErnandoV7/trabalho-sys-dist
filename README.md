@@ -75,19 +75,3 @@ Python 3.x
 RabbitMQ
 pika (pip install pika)
 ```
-
-## ⚠️ ERROS COMUNS
-
-| Erro | Solução |
-|------|---------|
-| Connection refused | Inicie RabbitMQ |
-| Timeout | Todos os 5 serviços iniciados? |
-| Fila vazia | Reinicie gateway |
-
-## 📍 PRÓXIMO PASSO
-
-👉 Leia [RESUMO.md](RESUMO.md)
-
----
-
-**Quick Start:** Janeiro 2026
