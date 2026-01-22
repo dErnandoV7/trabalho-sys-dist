@@ -60,15 +60,6 @@ messaging.py         → Sistema de mensagens
 3. Buscar "queen" no cliente
 4. Ver resultado: "Bohemian Rhapsody" ✅
 
-## 📚 DOCUMENTAÇÃO
-
-| Documento | Tempo | Função |
-|-----------|-------|--------|
-| RESUMO.md | 5 min | Visão geral |
-| CHECKLIST.md | 10 min | Começar |
-| GATEWAY_README.md | 20 min | Guia completo |
-| GUIA_RPC.md | 30 min | Técnico |
-
 ## 💡 CONCEITOS
 
 - **Gateway**: Centraliza requisições
